@@ -1,4 +1,4 @@
-## gcc-pi-led-shift - Displays a binary count.
+## gcc-pi-gpio-expander
 
 Written in C. 
 
